@@ -1,16 +1,14 @@
-### Hi there 👋
+## 🦒 Hi! My name is [Hendra](https://twitter.com/kasuhendra)
 
-<!--
-**sayasuhendra/sayasuhendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://twitter.com/kasuhendra">
+    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/kasuhendra?style=for-the-badge&logo=twitter&color=00ACEE">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<a href="https://github.com/sayasuhendra"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=sayasuhendra&show_icons=true" align="right" height="150" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a full-stack Laravel developer, working heavily with the TALL stack. I'm freelancer from Indonesia.
+
+- 🌱 I’m currently learning web3, NFT and blockchain.
+- 📫 How to reach me: sayasuhendra@gmail.com
